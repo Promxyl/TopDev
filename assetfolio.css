@@ -1,0 +1,23 @@
+body{
+	margin:10px;
+	width:100%;
+	padding:0;
+	background-color:#EEEEEE;
+}
+.header{
+	position:relative;
+	width: 100%;
+}
+.header h1{
+	position: absolute;
+	top:50px;
+	left: 50px;
+	color:white;
+	font-size:65px;
+}
+
+.left {
+float: left;
+background-color: #FFFFFF;
+width: 28%;
+}

@@ -9,13 +9,14 @@ body {
 
 #pagewrap {
 	padding: 5px;
-	width: 960px;
+	width: 100%;
 	margin: 20px auto;
+	background-color:#EEEEEE; 
 }
 header {
-	height: 140px;
+	height: 190px;
   padding: 0 15px;
-  background: url('image/Rectangle 2.png');
+  background: url('image/rec.png') center;
 }
 
 
@@ -26,15 +27,21 @@ header {
 	margin-top: 60px;
 	
 }
+
+
+
 .profile-name{
-	text-align: center;
+	margin-left: 92px;
 	padding-bottom: 40px;
+	color:#9B51E0; 
+	
 }
 
 #content {
 	width: 290px;
 	float: left;
 	padding: 5px 15px;
+	box-shadow: 5px 3px #bdbdbd;
 }
 
 #middle {
